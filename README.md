@@ -10,9 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> Supported Linux Distribution</h2>
 <div>
-  <img width="190" height="210" align="left" src="https://raw.githubusercontent.com/v2fly/v2fly-github-io/master/docs/.vuepress/public/readme-logo.png" alt="V2Ray"/>
-  <br>
-  <h1>v2ray-core Project V</h1>
+
 <h3 align="center">Project X Community</h3>
 <h3 align="center">Xray-core XTLS</h3>
 <p align="center">
