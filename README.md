@@ -5,7 +5,7 @@
 shopeevpn/shopeevpn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center"> VPS AutoScript Xray CORE, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/PREMIUM Version-1.0-blue.svg"></h1>
+<h1 align="center"> VPS AutoScript Xray Vless CORE, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/PREMIUM Version-1.0-blue.svg"></h1>
 
 
 <h2 align="center"> Supported Linux Distribution</h2>
@@ -25,19 +25,22 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">Screenshots</h3>
 <p align="center">
-<img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s01.PNG">
+<img src="https://raw.githubusercontent.com/shopeevpn/premium/main/picture/01.PNG">
    </p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s02.PNG">
+  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s01.PNG">
    </p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s03.PNG">
+  <img src="https://raw.githubusercontent.com/shopeevpn/premium/main/picture/10.PNG">
    </p>
      <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s04.PNG">
+  <img src="https://raw.githubusercontent.com/shopeevpn/premium/main/picture/11.PNG">
    </p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/freeversion/main/picture/s07.PNG">
+  <img src="https://raw.githubusercontent.com/shopeevpn/premium/main/picture/Untitled-1.jpg">
+   </p>
+    <p align="center">
+  <img src="https://raw.githubusercontent.com/shopeevpn/premium/main/picture/09.PNG">
    </p>
   
   ## Register IP : Contact Telegram @vpnshopee <a href="https://t.me/vpnshopee" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
